@@ -34,7 +34,7 @@ const Dashboard = () => {
       </div>
 
       <div className="flex flex-col bottom-3 absolute items-center">
-        <p>Made by Harshit Kumar</p>
+        {/* <p>Made by Hardik Sharma</p> */}
         <p>Copyright ©️ 2024</p>
       </div>
     </div>
